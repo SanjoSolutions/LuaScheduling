@@ -1,6 +1,6 @@
 {
   "name": "Scheduling",
   "dependencies": {
-    "Array": "SanjoSolutions/LuaArray#v1.1.0"
+    "Array": "SanjoSolutions/LuaArray#v1.0.0"
   }
 }
