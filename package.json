@@ -1,6 +1,6 @@
 {
-  "name": "Scheduling",
+  "name": "@sanjo-addons/scheduling",
   "dependencies": {
-    "Array": "SanjoSolutions/LuaArray#v1.0.0"
+    "@sanjo-addons/array": "SanjoSolutions/LuaArray#v1.0.0"
   }
 }
